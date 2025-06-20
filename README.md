@@ -63,5 +63,5 @@ Acceso a Ubicación en Segundo Plano:
 
 Para permitir el rastreo de ubicación en segundo plano, la aplicación también solicita UIBackgroundModes con location en Info.plist.
 
-Conclusión:
+## Conclusión:
 Este proyecto de ejemplo muestra cómo rastrear la ubicación del usuario, monitorear visitas y enviar notificaciones locales cuando ocurren cambios significativos. Puedes expandir este proyecto agregando más características, como personalizar la lógica de detección de visitas o integrar vistas de mapa para mostrar las ubicaciones rastreadas.
