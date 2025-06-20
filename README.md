@@ -2,13 +2,13 @@
 
 ## Introducción
 
-Este proyecto demuestra cómo utilizar **Core Location** para rastrear la ubicación del usuario, monitorear cambios significativos de ubicación y manejar visitas a lugares importantes (como el hogar, el trabajo, etc.). También muestra cómo enviar **notificaciones locales** cuando la ubicación del usuario cambia.
+Este proyecto demuestra cómo utilizar **Core Location** para rastrear la ubicación del usuario, monitorear cambios significativos de ubicación y manejar visitas a lugares importantes (como el hogar, el trabajo, etc.).
 
 ## Características:
 - Rastrear la ubicación del usuario en tiempo real usando `CLLocationManager`.
 - Monitorear **cambios significativos de ubicación** (por ejemplo, movimiento de más de 500 metros).
 - **Monitorear visitas** a lugares importantes (por ejemplo, hogar, trabajo).
-- **Enviar notificaciones locales** cuando la ubicación cambia o se detecta una visita.
+- **Enviar notificaciones locales** cuando la ubicación cambia.
 - Mostrar información de la ubicación (latitud, longitud) en la aplicación.
 - Funciona con **rastreo de ubicación en primer plano y en segundo plano**.
 
